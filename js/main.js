@@ -23,10 +23,7 @@ $(function(){
 $(function(){
 
     $("button").click(function(){
-        $("body").hide();
-    });
-
-
-
+        $("#contenido").toggle(1000);
+    })
 
 });
