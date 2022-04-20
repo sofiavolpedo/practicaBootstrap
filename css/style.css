@@ -4,6 +4,7 @@
     margin: 0;
     font-family: 'Be Vietnam Pro';
     font-size: 16px;
+    background-color: whitesmoke;
 }
 .imagenes {
     max-width: 100%;
@@ -41,4 +42,12 @@ p{
     margin-bottom: 30px;
     font-weight: bold;
 }
-
+.asd{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#but{
+    background-color: red;
+}
